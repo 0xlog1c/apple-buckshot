@@ -18,11 +18,11 @@ Welcome to **Apple BuckShot** – a thrilling 2D shooter where your goal is to c
 | Fire and recoil jump | Left-Click               |
 | Collect apples       | Run into them            |
 | Pause the game       | Press **ESC**            |
+- **Apple Ammo**: Collect apples to keep firing. Run out and the game resets after a short time. 🕰️
 
 ![alt text](screenshot/game.png)
 ![alt text](screenshot/pause.png)
 
-- **Apple Ammo**: Collect apples to keep firing. Run out and the game resets after a short time. 🕰️
 
 ## 🛠️ **Core Systems**
 - **Apple Spawner**: Randomly spawns apples around you. 🍏
@@ -33,7 +33,7 @@ Welcome to **Apple BuckShot** – a thrilling 2D shooter where your goal is to c
 ## 💻 **Installation & Play**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/AppleBuckShot.git
+   git clone https://github.com/0xlog1c/apple-buckshot.git
    ```
 2. Open in Unity and hit **Play**! 🎮
 
