@@ -2,6 +2,8 @@
 
 Welcome to **Apple BuckShot** – a thrilling 2D shooter where your goal is to collect apples using your gun's recoil! 🍎
 
+**You Can Play it** on [itch.io](https://0xlog1c.itch.io/apple-buckshot)
+
 **Inspired By:** [BuckShot by Barji](https://www.youtube.com/watch?v=PC_pAgJopIA)
 
 ![alt text](screenshot/menu.png)
