@@ -1,10 +1,8 @@
-Certainly! Here’s a more concise and visually organized version of your game description:
-
----
-
 # 🍏 **Apple BuckShot** 🍏
 
 Welcome to **Apple BuckShot** – a thrilling 2D shooter where your goal is to collect apples using your gun's recoil! 🎯🍎
+
+![alt text](screenshot/menu.png)
 
 ## 🎮 **Gameplay Features**
 - **Apple Spawner**: 🍏 Apples appear randomly. Collect as many as you can!
@@ -20,6 +18,9 @@ Welcome to **Apple BuckShot** – a thrilling 2D shooter where your goal is to c
 | Fire and recoil jump | Left-Click               |
 | Collect apples       | Run into them            |
 | Pause the game       | Press **ESC**            |
+
+![alt text](screenshot/game.png)
+![alt text](screenshot/pause.png)
 
 - **Apple Ammo**: Collect apples to keep firing. Run out and the game resets after a short time. 🕰️
 
@@ -42,7 +43,5 @@ Welcome to **Apple BuckShot** – a thrilling 2D shooter where your goal is to c
     - [Frog Ninja](pixelfrog-assets.itch.io/pixel-adventure-1)
     - [UI](npkuu.itch.io/pixelgui)
 - **Sound Effects**: YouTube 🎥
-
-Have fun collecting apples and mastering the recoil! 🍏🔫
-
 ---
+Have fun collecting apples and mastering the recoil! 🍏🔫
